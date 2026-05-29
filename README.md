@@ -31,6 +31,3 @@
 
 * LinkedIn: www.linkedin.com/in/gitanjali-jain-57b9ba387
 * Email: gitanjali.schooll@gmail.com
-- ⚡ Fun fact: ...
--->
-update profile README
