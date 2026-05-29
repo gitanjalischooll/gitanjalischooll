@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gitanjali Jain 👋
 
-<!--
-**gitanjalischooll/gitanjalischooll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third Year Computer Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+* Learning Full Stack Web Development
+* Practicing Data Structures & Algorithms
+* Building real-world projects
+* Preparing for internships and placements
+
+## Tech Stack
+
+* C++
+* HTML
+* CSS
+* JavaScript
+
+## Currently Working On
+
+* Home Business E-Commerce Website
+* Practicing DSA with JAVA
+
+## Goals for 2026
+
+* Become a Full Stack Developer
+* Build strong projects
+* Secure a software internship
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/gitanjali-jain-57b9ba387
+* Email: gitanjali.schooll@gmail.com
 - ⚡ Fun fact: ...
 -->
+update profile README
